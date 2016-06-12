@@ -273,6 +273,35 @@ a:focus {
     -o-background-size: cover;
 }
 
+.events-section {
+    background-color: #4c4c4c;
+    width:100%;
+    height:100%;
+    padding-top:20px;
+}
+
+#event_image {
+    width:100%;
+    padding:0px;
+}
+
+div.thumbnail {
+    background-color: white;
+    border-radius:0px;
+    padding: 0px;
+    border:0px;
+    margin:5px;
+}
+
+div.col-sm-6.col-md-4 {
+    padding: 0px;
+}
+
+div.container {
+    padding:0px;
+    border-radius:0px;
+}
+
 #map {
     width: 100%;
     height: 200px;
@@ -300,12 +329,12 @@ a:focus {
     font-weight: 400;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;site-
 }
 
 .btn-default {
     border: 1px solid {{ site.color.links }};
-    color: {{ site.color.links }};
+    color: #00acef;
     background-color: transparent;
 }
 
