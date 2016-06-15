@@ -50,7 +50,7 @@ p {
 }
 
 a {
-    color: #00acef;
+    color: ;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -71,7 +71,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #000000;
+    background-color: ;
 }
 
 .navbar-custom .navbar-brand {
@@ -129,7 +129,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #000000;
+        background-color: ;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -150,7 +150,7 @@ a:focus {
     text-align: center;
     color: #fff;
     background-size: cover;
-    background-color: #000000;
+    background-color: ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -271,7 +271,7 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: #000000;
+    background-color: ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -338,17 +338,17 @@ div.container {
 }
 
 .btn-default {
-    border: 1px solid #00acef;
+    border: 1px solid ;
     color: #00acef;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #00acef;
+    border: 1px solid ;
     outline: 0;
-    color: #000000;
-    background-color: #00acef;
+    color: ;
+    background-color: ;
 }
 
 ul.banner-social-buttons {
