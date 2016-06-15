@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Raketebar
 email: info@raketebar.ch
@@ -28,4 +29,28 @@ social:
 
 # Build settings
 markdown: kramdown
+=======
+---
+title: raketebar
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+>>>>>>> 765fe58d2cc51359484340c57d7adedf746e3312
 permalink: pretty
