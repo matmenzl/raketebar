@@ -3,6 +3,7 @@ title: Raketebar
 email: info@raketebar.ch
 url: https://www.raketebar.ch
 description: "Raketabar Description"
+baseurl: /raketebar
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
